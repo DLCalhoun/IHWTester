@@ -1,0 +1,150 @@
+<standOff>
+<person xml:id="MEP"></person>
+<p>great-grandmother</p>
+<persName> Mary Ellen Petty</persName>
+<surname> Petty </surname>
+<forename> Mary </forename>
+<listRelation>
+<relation type="personal" name= "great-grandmother" mutual= "DLC MMC"/>
+<relation type="personal" name= "mother" mutual="Momma EB Ken"/>
+<relation type="personal" name="daughter" mutual= "Ada"/>
+</listRelation>
+
+<person xml:id="DLC"></person>
+<p>Conjurer</p>
+<persName> Dana LeTriece Calhoun </persName>
+<surname> Calhoun </surname>
+<forename> Dana </forename>
+<forename> LeTriece </forename>
+<listRelation>
+<relation type="personal" name= "myself"/>
+</listRelation>
+
+<person xml:id="Grams"></person>
+<p>Grandmother</p>
+<persName> Laura Mae Freeman </persName>
+<surname> Freeman </surname>
+<forename> Laura </forename>
+<forename> Mae </forename>
+
+<listRelation>
+<relation type="personal" name= "grandmother" mutual= "DLC MMC"/>
+<relation type="personal" name= "daughter" mutual= "MEP"/>
+</listRelation>
+
+
+<person xml:id="Uncle"></person>
+<p>Great-uncle</p>
+<persName> David Charles Logan </persName>
+<surname> Logan </surname>
+<forename> David </forename>
+<forename> Charles </forename>
+<listRelation>
+<relation type="personal" name= "great-uncle" mutual= "DLC MMMC"/>
+<relation type="personal" name= "son" mutual= "MEP"/>
+<relation type="personal" name= "sibling" mutual= "Grams UncB"/>
+<relation type="personal" name= "father" mutual=" chL crL"/>
+</listRelation>
+
+<person xml:id="Momma"></person>
+<p>My Mother</p>
+<persName> Theressa Michelle Calhoun </persName>
+<surname> Calhoun </surname>
+<forename> Theressa </forename>
+<forename> Michelle </forename>
+<maidenName> Logan </maidenName>
+<listRelation>
+<relation type="personal" name= "mother" mutual="DLC MMC"/>
+<relation type="personal" name= "daughter" mutual= "Grams"/>
+<relation type= "personal" name= "sibling" mutual= "EB Ken"/>
+<relation type= "personal" name= "granddaughter" mutual= "MEP"/>
+</listRelation>
+
+<person xml:id="EB"></person>
+<p>Aunt EB</p>
+<persName> Lisa Yvonne Freeman </persName>
+<surname> Freeman </surname>
+<forename> Lisa </forename>
+<forename> Yvonne </forename>
+<listRelation>
+<relation type="personal" name= "aunt" mutual="DLC MMC"/>
+<relation type="personal" name= "daughter" mutual= "Grams"/>
+<relation type= "personal" name= "sibling" mutual= "Momma Ken"/>
+<relation type= "personal" name= "granddaughter" mutual= "MEP"/>
+</listRelation>
+
+<person xml:id="Ken"></person>
+<p>Uncle Ken</p>
+<persName> Kenneth Avery Freeman </persName>
+<surname> Kenneth </surname>
+<forename> Avery</forename>
+<forename> Freeman </forename>
+
+<listRelation>
+<relation type="personal" name= "uncle" mutual="DLC MMC"/>
+<relation type="personal" name= "son" mutual= "Grams"/>
+<relation type= "personal" name= "sibling" mutual= "Momma Ken"/>
+<relation type= "personal" name= "grandson" mutual= "MEP"/>
+</listRelation>
+
+<person xml:id="Jearl"></person>
+<p>Jearldine Logan, Mary's sister</p>
+<persName> Jearldine Logan </persName>
+<surname> Logan </surname>
+<forename> Jearldine </forename>
+<forename>  </forename>
+
+<listRelation>
+<relation type="personal" name= "sister" mutual="MEP UncD MJ HL AM"/>
+<relation type="personal" name= "mother" mutual= "TE GL RL RaL"/>
+<relation type= "personal" name= "daughter" mutual= "Ada"/>
+</listRelation>
+
+<person xml:id="MJ"></person>
+<p>Johnnie Mae Logan, known as Momma John </p>
+<persName> Johnnie Mae Logan </persName>
+<surname> Logan </surname>
+<forename> Johnnie </forename>
+<forename> Mae </forename>
+
+<listRelation>
+<relation type="personal" name= "sister" mutual="MEP UncD Jearl HL AM"/>
+<relation type="personal" name= "mother" mutual= "LW PJ JL JaL"/>
+<relation type= "personal" name= "daughter" mutual= "Ada"/>
+</listRelation>
+
+<person xml:id="UncD"></person>
+<p>Dewitt Logan, known as Uncle Dee</p>
+<persName> Dewitt Logan </persName>
+<surname> Logan </surname>
+<forename> Dewitt </forename>
+
+<listRelation>
+<relation type="personal" name= "brother" mutual="MEP MJ Jearl HL AM"/>
+<relation type= "personal" name= "son" mutual= "Ada"/>
+</listRelation>
+
+<person xml:id="HL"></person>
+<p>Harvey Logan, known as Uncle Harv? </p>
+<persName> Harvey Logan </persName>
+<surname> Logan </surname>
+<forename> Harvey </forename>
+
+
+<listRelation>
+<relation type="personal" name= "brother" mutual="MEP MJ UncD Jearl AM"/>
+<relation type= "personal" name= "daughter" mutual= "Ada"/>
+</listRelation>
+
+<person xml:id="AM"></person>
+<p>Martha Logan, known as Aunt Mott (pronounced Ain't Mott) </p>
+<persName> Martha Logan </persName>
+<forename>Martha</forename>
+<surname> Logan </surname>
+
+<listRelation>
+<relation type="personal" name= "sister" mutual="MEP UncD Jearl HL MJ"/>
+<relation type= "personal" name= "daughter" mutual= "Ada"/>
+</listRelation>
+</person>
+</standOff>
